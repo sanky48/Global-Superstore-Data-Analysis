@@ -6,23 +6,39 @@ This project analyzes the Global Superstore dataset using MySQL to extract busin
 
 ## 🔧 Tools Used
 - MySQL Workbench
-
+- Data Format: CSV
+- IDE: MySQL Workbench
+- Documentation: PDF (Query outputs & insights)
+- Version Control: GitHub
 ---
 
 ## 🧠 Business Questions Answered
-1. Total revenue, quantity sold, and total profit.
-2. Segment-wise distribution of sales.
-3. Top 3 most profitable products.
-4. Orders placed after January 2016.
-5. Number of Mexican states involved in business.
-6. Most & least profitable products and subcategories.
-7. Customer segment contributing the most revenue.
-8. Year-over-year growth in sales & profit.
-9. Countries & cities driving the highest sales.
-10. Average delivery time (order to ship date) across regions.
-11. Profit distribution across order priority levels.
-12. Recommendations for improving profit and reducing losses.
+1. Total revenue, quantity sold, and profit generated
+2. Segment-wise distribution of sales
+3. Top 3 most profitable products
+4. Orders placed after January 2016
+5. Most and least profitable products by sub-category
+6. Customer segment contributing the most revenue
+7. Year-over-year growth in sales and profit
+8. Countries and cities driving the highest sales
+9. Average delivery time across regions
+10. Profit distribution by order priority
+11. Data-driven recommendations to improve profitability
 
+---
+
+## SQL Concepts Used
+GROUP BY, ORDER BY
+Aggregate functions (SUM, AVG, COUNT)
+Filtering
+Date functions (STR_TO_DATE, YEAR, DATEDIFF)
+Window Functions (RANK() OVER ())
+---
+
+📈 Key Highlights
+Used window functions to identify top-performing and loss-making products efficiently
+Converted date columns from text to proper date format for accurate time-based analysis
+Focused on business-friendly outputs instead of raw data dumps
 ---
 
 ## 📄 Files Included
