@@ -59,7 +59,7 @@ Focused on business-friendly outputs instead of raw data dumps
 ## 📄 Files Included
 - `queries.sql` → All SQL queries used in this project  
 - `output.pdf` → Results, screenshots, and insights
-- `dashboard.png` → 
+- `dashboard.png` → Performance dashboard created in Looker Studio
 
 ---
 
