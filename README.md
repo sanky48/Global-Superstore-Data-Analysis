@@ -25,6 +25,7 @@ Analyzed Global Superstore retail dataset using SQL and created an interactive d
 - Category and sub-category comparison
 - Top profitable products
 - Interactive filters
+- Dashboard link- https://datastudio.google.com/reporting/9db4ac64-1dce-42ca-b9cd-1249cb1e0c0e
 ---
 
 ## 🧠 Business Questions Answered
