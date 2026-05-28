@@ -1,15 +1,30 @@
 # 📊 Global-Superstore-Data-Analysis 
 ## 📌 Project Overview
-This project analyzes the Global Superstore dataset using MySQL to extract business insights related to sales, profit, customer behavior, and shipping performance. The output of all queries is provided in the attached PDF.
-
+Analyzed Global Superstore retail dataset using SQL and created an interactive dashboard in Looker Studio to identify sales, profit, and regional performance trends.
 ---
 
 ## 🔧 Tools Used
 - MySQL Workbench
 - Data Format: CSV
 - IDE: MySQL Workbench
+- Looker Studio
 - Documentation: PDF (Query outputs & insights)
 - Version Control: GitHub
+---
+
+## KPI'S
+- Total Sales
+- Total Profit
+- Total Orders
+- Profit Margin
+---
+
+## Dashboard Features
+- Sales trend analysis
+- Region-wise profit analysis
+- Category and sub-category comparison
+- Top profitable products
+- Interactive filters
 ---
 
 ## 🧠 Business Questions Answered
@@ -43,7 +58,8 @@ Focused on business-friendly outputs instead of raw data dumps
 
 ## 📄 Files Included
 - `queries.sql` → All SQL queries used in this project  
-- `output.pdf` → Results, screenshots, and insights  
+- `output.pdf` → Results, screenshots, and insights
+- `dashboard.png` → 
 
 ---
 
